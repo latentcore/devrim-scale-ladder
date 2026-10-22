@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+paper/_derleme/
+paper/tables.tex
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out

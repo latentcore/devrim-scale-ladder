@@ -1,0 +1,280 @@
+[2026-10-12 13:03:15] EK7 sha256 ed3cd1b6ed11c8346ab4d36807d17fbd81a73f7384263349a1da588bc723848a (ON_KAYIT_MERDIVEN_2026-10-08.md Ek 7, 8367 bayt; 12 Ekim ~12:56, ilk koşudan ÖNCE yazıldı)
+[2026-10-12 13:03:17] KUYRUK6 BASLADI (KURU) pid 7092
+[2026-10-12 13:03:17] FAZ F0 BASLADI
+[2026-10-12 13:03:17] KURU: python kuyruk6_faz.py F0
+[2026-10-12 13:03:17] BEKLIYOR: hazır faz yok (kalan ['F1A', 'BIRLESIM', 'TOHUM2', 'F1B', 'F1A2', 'F1K', 'F2', 'F3', 'F4', 'F5']; hazir\<FAZ>.ok bekleniyor)
+[2026-10-12 13:03:39] KUYRUK6 BASLADI pid 24812
+[2026-10-12 13:03:39] FAZ F0 BASLADI
+[2026-10-12 13:03:39] F0: T1 taban sağlamlaştırma başladı (Ek 7 madde 1)
+[2026-10-12 13:03:40] BASLADI merdiven.py --arch gpt --sizes g3 --variant taban --seed 1 --lr_mult 0.7 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr0.7 wd0.1 {'MERDIVEN_WD': '0.1'}
+[2026-10-12 13:08:38] BITTI rc=0 (5.0 dk)
+[2026-10-12 13:08:38] BASLADI merdiven.py --arch gpt --sizes g3 --variant taban --seed 1 --lr_mult 1.4 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr1.4 wd0.1 {'MERDIVEN_WD': '0.1'}
+[2026-10-12 13:13:59] BITTI rc=0 (5.3 dk)
+[2026-10-12 13:14:00] BASLADI merdiven.py --arch gpt --sizes g3 --variant taban --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr1.0 wd0.05 {'MERDIVEN_WD': '0.05'}
+[2026-10-12 13:19:25] BITTI rc=0 (5.4 dk)
+[2026-10-12 13:19:25] BASLADI merdiven.py --arch gpt --sizes g3 --variant taban --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr1.0 wd0.2 {'MERDIVEN_WD': '0.2'}
+[2026-10-12 13:24:49] BITTI rc=0 (5.4 dk)
+[2026-10-12 13:24:50] BASLADI merdiven.py --arch gpt --sizes g4 --variant taban --seed 1 --lr_mult 0.7 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr0.7 wd0.1 {'MERDIVEN_WD': '0.1'}
+[2026-10-12 13:45:48] BITTI rc=0 (21.0 dk)
+[2026-10-12 13:45:48] BASLADI merdiven.py --arch gpt --sizes g4 --variant taban --seed 1 --lr_mult 1.4 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr1.4 wd0.1 {'MERDIVEN_WD': '0.1'}
+[2026-10-12 13:47:11] EK7a sha256 57107e5e23f7edf75d55232bfea24b1c34e760ddc72dc964de3ca82027f26a13 (F1B sınav hash'leri ve bütçe; F1B koşusundan ÖNCE)
+[2026-10-12 13:51:53] EK7b sha256 129a64622275d3372e238ac5ca9c8075a582be081b32045a07a0c6a3fff0037d (F1K kesin ayarlar; F1K koşusundan ÖNCE)
+[2026-10-12 14:06:37] BITTI rc=0 (20.8 dk)
+[2026-10-12 14:06:38] BASLADI merdiven.py --arch gpt --sizes g4 --variant taban --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr1.0 wd0.05 {'MERDIVEN_WD': '0.05'}
+[2026-10-12 14:27:43] BITTI rc=0 (21.1 dk)
+[2026-10-12 14:27:44] BASLADI merdiven.py --arch gpt --sizes g4 --variant taban --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr1.0 wd0.2 {'MERDIVEN_WD': '0.2'}
+[2026-10-12 14:49:00] BITTI rc=0 (21.3 dk)
+[2026-10-12 14:49:00] F0: en iyi LR kenarda (1,4) → LR 2,0 ekleniyor
+[2026-10-12 14:49:00] BASLADI merdiven.py --arch gpt --sizes g3 --variant taban --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr2.0 wd0.1 {'MERDIVEN_WD': '0.1'}
+[2026-10-12 14:54:23] BITTI rc=0 (5.4 dk)
+[2026-10-12 14:54:23] BASLADI merdiven.py --arch gpt --sizes g4 --variant taban --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr2.0 wd0.1 {'MERDIVEN_WD': '0.1'}
+[2026-10-12 15:15:23] BITTI rc=0 (21.0 dk)
+[2026-10-12 15:15:23] F0: köşe ayarı ekleniyor (LR 2.0, WD 0.05)
+[2026-10-12 15:15:23] BASLADI merdiven.py --arch gpt --sizes g3 --variant taban --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr2.0 wd0.05 {'MERDIVEN_WD': '0.05'}
+[2026-10-12 15:20:43] BITTI rc=0 (5.3 dk)
+[2026-10-12 15:20:43] BASLADI merdiven.py --arch gpt --sizes g4 --variant taban --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr2.0 wd0.05 {'MERDIVEN_WD': '0.05'}
+[2026-10-12 15:41:38] BITTI rc=0 (20.9 dk)
+[2026-10-12 15:41:38] BASLADI merdiven.py --arch gpt --sizes g2 --variant taban --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\t1_taban_ayar.jsonl --etiket t1 lr2.0 wd0.1 {'MERDIVEN_WD': '0.1'}
+[2026-10-12 15:43:16] BITTI rc=0 (1.6 dk)
+[2026-10-12 15:43:16] F0 (T1): en iyi taban ayarı LR×2.0 WD 0.1 · g4 kayıp 3.5943 (eski taban 3.6552, eşik 3.6187) ⇒ K0 TUTTU: ayarlı taban; m’ler iki tabana göre yazılır; paket m₄: t1 eski 2.207 / ayarlı 1.795 (Haiku'ya +5.08%); t2 eski 2.185 / ayarlı 1.778 (Haiku'ya +5.00%).
+[2026-10-12 15:43:16] F0 dolgu: F1A hazır → dolgu bırakıldı
+[2026-10-12 15:43:16] F0 BITTI (faz betiği)
+[2026-10-12 15:43:16] FAZ F0 BITTI
+[2026-10-12 15:43:17] FAZ F1A BASLADI
+[2026-10-12 15:43:17] F1A: birleşim taraması başladı (Ek 7 madde 2)
+[2026-10-12 15:43:18] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonh+qknorm+bigram+wsd --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 15:43:30] BITTI rc=0 (0.2 dk)
+[2026-10-12 15:43:30] DUMAN canon+muonh+qknorm+bigram+wsd: GEÇTİ
+[2026-10-12 15:43:30] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonh+qknorm+bigram+wsd --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket eta0.004 {'MERDIVEN_H_TEPE': '0.004'}
+[2026-10-12 15:51:12] BITTI rc=0 (7.7 dk)
+[2026-10-12 15:51:12] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonh+qknorm+bigram+wsd --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket eta0.008 {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-12 15:53:33] EK7c sha256 9a2c3a9f408f1b0647df61fd19f507d3615bc8aabdbcbd535c46041ba0e5565f (tabana da S1 LR denemesi; F2'den ÖNCE)
+[2026-10-12 15:53:58] EK7c sha256 89cd537af46f17f8e6f0332a89b740ff2fa507104d6549d1c6ea909576b6f3ae (DÜZELTME: başlıktaki saat ~16:40 yanlıştı, doğrusu ~15:50; içerik aynı; önceki özet 9a2c3a9f408f1b06… geçersiz; F2'den ÖNCE)
+[2026-10-12 15:58:49] BITTI rc=0 (7.6 dk)
+[2026-10-12 15:58:49] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonh+qknorm+bigram+wsd --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket eta0.016 {'MERDIVEN_H_TEPE': '0.016'}
+[2026-10-12 16:06:27] BITTI rc=0 (7.6 dk)
+[2026-10-12 16:06:27] F1A muonh η seçimi: 0.008 (g3 kayıpları 0.004→3.82573, 0.008→3.74659, 0.016→3.75057)
+[2026-10-12 16:06:28] BASLADI merdiven.py --arch gpt --sizes g2,g4 --variant canon+muonh+qknorm+bigram+wsd --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-12 16:38:09] BITTI rc=0 (31.7 dk)
+[2026-10-12 16:38:09] F1A muonh: g2 m 2.993 a 0.877 · g3 m 4.396 a 0.898 · g4 m 2.023 a 0.917 ⇒ ÖLDÜ
+[2026-10-12 16:38:09] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+buyuyen --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 16:38:21] BITTI rc=0 (0.2 dk)
+[2026-10-12 16:38:21] DUMAN canon+muonw+qknorm+bigram+wsd+buyuyen: GEÇTİ
+[2026-10-12 16:38:22] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonw+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 0.5 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket lr0.5
+[2026-10-12 16:44:31] BITTI rc=0 (6.2 dk)
+[2026-10-12 16:44:32] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonw+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket lr1.0
+[2026-10-12 16:50:42] BITTI rc=0 (6.2 dk)
+[2026-10-12 16:50:42] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonw+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket lr2.0
+[2026-10-12 16:56:53] BITTI rc=0 (6.2 dk)
+[2026-10-12 16:56:53] F1A buyuyen LR seçimi: 2.0 (g3 kayıpları 0.5→3.87647, 1.0→3.75484, 2.0→3.71569)
+[2026-10-12 16:56:53] BASLADI merdiven.py --arch gpt --sizes g2,g4 --variant canon+muonw+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a
+[2026-10-12 17:23:29] BITTI rc=0 (26.6 dk)
+[2026-10-12 17:23:29] F1A buyuyen: g2 m 4.392 a 1.288 · g3 m 5.654 a 1.155 · g4 m 2.544 a 1.153 ⇒ GEÇTİ
+[2026-10-12 17:23:30] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonh+qknorm+bigram+wsd+buyuyen --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_H_TEPE': '0.008', 'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 17:23:42] BITTI rc=0 (0.2 dk)
+[2026-10-12 17:23:42] DUMAN canon+muonh+qknorm+bigram+wsd+buyuyen: GEÇTİ
+[2026-10-12 17:23:43] BASLADI merdiven.py --arch gpt --sizes g3,g2,g4 --variant canon+muonh+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-12 17:56:39] BITTI rc=0 (32.9 dk)
+[2026-10-12 17:56:39] F1A muonh+buyuyen: g2 m 3.621 a 1.061 · g3 m 5.162 a 1.054 · g4 m 2.430 a 1.101 ⇒ GEÇTİ + İŞARET (a₄ ≥ a₃)
+[2026-10-12 17:56:40] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+overtok+wsd --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 17:56:53] BITTI rc=0 (0.2 dk)
+[2026-10-12 17:56:53] DUMAN canon+muonw+qknorm+overtok+wsd: GEÇTİ
+[2026-10-12 17:56:53] BASLADI merdiven.py --arch gpt --sizes g3,g2,g4 --variant canon+muonw+qknorm+overtok+wsd --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a
+[2026-10-12 18:40:55] BITTI rc=0 (44.0 dk)
+[2026-10-12 18:40:55] F1A overtok: g2 m 3.478 a 1.019 · g3 m 5.024 a 1.026 · g4 m 2.277 a 1.032 ⇒ kazançsız
+[2026-10-12 18:40:55] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+ve --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 18:41:08] BITTI rc=0 (0.2 dk)
+[2026-10-12 18:41:08] DUMAN canon+muonw+qknorm+bigram+wsd+ve: GEÇTİ
+[2026-10-12 18:41:08] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonw+qknorm+bigram+wsd+ve --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a-bayrak
+[2026-10-12 18:49:06] BITTI rc=0 (8.0 dk)
+[2026-10-12 18:49:06] F1A bayrak ve: g3 artış 1.039 ⇒ atıldı
+[2026-10-12 18:49:07] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+x0 --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 18:49:19] BITTI rc=0 (0.2 dk)
+[2026-10-12 18:49:19] DUMAN canon+muonw+qknorm+bigram+wsd+x0: GEÇTİ
+[2026-10-12 18:49:20] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonw+qknorm+bigram+wsd+x0 --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a-bayrak
+[2026-10-12 18:57:11] BITTI rc=0 (7.9 dk)
+[2026-10-12 18:57:11] F1A bayrak x0: g3 artış 1.019 ⇒ atıldı
+[2026-10-12 18:57:11] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+hub4 --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 18:57:24] BITTI rc=0 (0.2 dk)
+[2026-10-12 18:57:24] DUMAN canon+muonw+qknorm+bigram+wsd+hub4: GEÇTİ
+[2026-10-12 18:57:24] BASLADI merdiven.py --arch gpt --sizes g3,g2,g4 --variant canon+muonw+qknorm+bigram+wsd+hub4 --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a
+[2026-10-12 19:38:32] BITTI rc=0 (41.1 dk)
+[2026-10-12 19:38:32] F1A hub4: g2 m 4.265 a 1.250 · g3 m 4.942 a 1.009 · g4 m 2.259 a 1.023 ⇒ kazançsız
+[2026-10-12 19:38:33] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+derin --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 19:38:46] BITTI rc=0 (0.2 dk)
+[2026-10-12 19:38:46] DUMAN canon+muonw+qknorm+bigram+wsd+derin: GEÇTİ
+[2026-10-12 19:38:46] BASLADI merdiven.py --arch gpt --sizes g3,g2,g4 --variant canon+muonw+qknorm+bigram+wsd+derin --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a
+[2026-10-12 20:25:34] BITTI rc=0 (46.8 dk)
+[2026-10-12 20:25:34] F1A derin: g2 m 5.084 a 1.490 · g3 m 5.100 a 1.041 · g4 m 2.280 a 1.033 ⇒ kazançsız
+[2026-10-12 20:25:35] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+moe8 --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-12 20:25:51] BITTI rc=0 (0.3 dk)
+[2026-10-12 20:25:51] DUMAN canon+muonw+qknorm+bigram+wsd+moe8: GEÇTİ
+[2026-10-12 20:25:52] BASLADI merdiven.py --arch gpt --sizes g3,g2,g4 --variant canon+muonw+qknorm+bigram+wsd+moe8 --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a
+[2026-10-12 22:51:57] HATA rc=1 (deneme 1/2)
+[2026-10-12 22:52:28] BASLADI merdiven.py --arch gpt --sizes g3,g2,g4 --variant canon+muonw+qknorm+bigram+wsd+moe8 --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a
+[2026-10-12 22:58:38] HATA rc=4294967295 (deneme 2/2)
+[2026-10-12 22:58:38] canon+muonw+qknorm+bigram+wsd+moe8: yeniden deneme mikro 4096 ile
+[2026-10-12 22:58:38] BASLADI merdiven.py --arch gpt --sizes g4 --variant canon+muonw+qknorm+bigram+wsd+moe8 --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a {'MERDIVEN_MIKRO': '4096'}
+[2026-10-12 22:59:09] HATA rc=4294967295 (deneme 1/2)
+[2026-10-12 22:59:39] BASLADI merdiven.py --arch gpt --sizes g4 --variant canon+muonw+qknorm+bigram+wsd+moe8 --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a {'MERDIVEN_MIKRO': '4096'}
+[2026-10-12 22:59:43] HATA rc=4294967295 (deneme 2/2)
+[2026-10-12 22:59:43] F1A moe8: g2 m 5.322 a 1.560 · g3 m 4.104 a 0.838 ⇒ eksik
+[2026-10-12 22:59:43] F1A: geçen kollar ['buyuyen', 'muonh+buyuyen']; boyla büyüme işareti (a₄ ≥ a₃) ['muonh+buyuyen']; tutulan bayraklar yok. muonh a₄ 0.917; buyuyen a₄ 1.153; muonh+buyuyen a₄ 1.101; overtok a₄ 1.032; hub4 a₄ 1.023; derin a₄ 1.033.
+[2026-10-12 22:59:43] FAZ F1A BITTI
+[2026-10-12 22:59:43] FAZ BIRLESIM BASLADI
+[2026-10-12 22:59:44] BİRLEŞİM: paket2 = canon+muonh+qknorm+bigram+wsd+buyuyen (env {'MERDIVEN_H_TEPE': '0.008'}, LR merkezi 2.0)
+[2026-10-12 22:59:44] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonh+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 1.4 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket b2lr1.4 {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-12 23:05:58] BITTI rc=0 (6.2 dk)
+[2026-10-12 23:05:58] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonh+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket b2lr2.0 {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-12 23:12:15] BITTI rc=0 (6.3 dk)
+[2026-10-12 23:12:15] BASLADI merdiven.py --arch gpt --sizes g3 --variant canon+muonh+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 2.8 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\f1a_tarama.jsonl --etiket b2lr2.8 {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-12 23:18:45] BITTI rc=0 (6.5 dk)
+[2026-10-12 23:18:45] BİRLEŞİM LR seçimi: 2.8 (g3 kayıpları 1.4→3.75779, 2.0→3.7474, 2.8→3.73991)
+[2026-10-12 23:18:46] BASLADI merdiven.py --arch gpt --sizes g2,g4 --variant canon+muonh+qknorm+bigram+wsd+buyuyen --seed 1 --lr_mult 2.8 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket birlesim {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-12 23:45:28] BITTI rc=0 (26.7 dk)
+[2026-10-12 23:45:29] BASLADI merdiven.py --arch gpt --sizes g3,g4 --variant canon+muonh+qknorm+bigram+wsd+buyuyen --seed 2 --lr_mult 2.8 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket birlesim {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-13 00:16:05] BITTI rc=0 (30.6 dk)
+[2026-10-13 00:16:05] BİRLEŞİM: paket2 canon+muonh+qknorm+bigram+wsd+buyuyen (LR×2.8); g4 m 2.458 / 2.452 (ort 2.455, Haiku'ya +7.80%) ⇒ YENİ EN İYİ TARİF.
+[2026-10-13 00:16:05] FAZ BIRLESIM BITTI
+[2026-10-13 00:16:06] FAZ TOHUM2 BASLADI
+[2026-10-13 00:16:06] TOHUM2: işaretli kollar ['muonh+buyuyen']
+[2026-10-13 00:16:07] BASLADI merdiven.py --arch gpt --sizes g3,g4 --variant canon+muonh+qknorm+bigram+wsd+buyuyen --seed 2 --lr_mult 2.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a {'MERDIVEN_H_TEPE': '0.008'}
+[2026-10-13 00:46:37] BITTI rc=0 (30.5 dk)
+[2026-10-13 00:46:37] TOHUM2: muonh+buyuyen: tohum 2 a₃ 1.065 a₄ 1.118 ⇒ İKİ TOHUMLU İŞARET.
+[2026-10-13 00:46:37] FAZ TOHUM2 BITTI
+[2026-10-13 00:46:38] FAZ F1B BASLADI
+[2026-10-13 00:46:38] F1B: akıl yürütme çekirdeği başladı (Ek 7 madde 5, Ek 7a)
+[2026-10-13 00:46:38] BASLADI ..\..\F1B_akil_cekirdek\akil_cekirdek.py --hepsi
+[2026-10-13 01:42:11] BITTI rc=0 (55.5 dk)
+[2026-10-13 01:42:11] F1B: paket − taban (OOD ort, puan): b1 +2.2, b2 +6.9, b3 +7.5 ⇒ **GEÇTİ**; dongu − taban (OOD ort, puan): b1 +1.1, b2 +8.4, b3 +4.8 ⇒ **geçmedi (kazanç < 5 puan ya da büyük boyda küçüldü)**; b1 dongu test anı turu 1 → 4: OOD +11.9 puan ⇒ TEST ANI İŞARETİ; b2 dongu test anı turu 1 → 4: OOD +22.6 puan ⇒ TEST ANI İŞARETİ; b3 dongu test anı turu 1 → 4: OOD +15.1 puan ⇒ TEST ANI İŞARETİ; self-consistency (8 örnek, çoğunluk) b3 paket: OOD 0.482 → 0.490.
+[2026-10-13 01:42:11] FAZ F1B BITTI
+[2026-10-13 01:42:12] FAZ F1A2 BASLADI
+[2026-10-13 01:42:12] F1A-2 başladı (Ek 7 madde 6)
+[2026-10-13 01:42:13] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+gptbert --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-13 01:42:24] BITTI rc=0 (0.2 dk)
+[2026-10-13 01:42:24] DUMAN canon+muonw+qknorm+bigram+wsd+gptbert: GEÇTİ
+[2026-10-13 01:42:24] BASLADI merdiven.py --arch gpt --sizes g3,g2,g4 --variant canon+muonw+qknorm+bigram+wsd+gptbert --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a
+[2026-10-13 02:21:07] BITTI rc=0 (38.7 dk)
+[2026-10-13 02:21:07] F1A-2 gptbert: g2 m 2.225 a 0.652 · g3 m 3.019 a 0.616 · g4 m 1.324 a 0.600 ⇒ ÖLDÜ
+[2026-10-13 02:21:07] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+rholoss --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-13 02:21:25] BITTI rc=0 (0.3 dk)
+[2026-10-13 02:21:25] DUMAN canon+muonw+qknorm+bigram+wsd+rholoss: GEÇTİ
+[2026-10-13 02:21:26] BASLADI merdiven.py --arch gpt --sizes g3,g2,g4 --variant canon+muonw+qknorm+bigram+wsd+rholoss --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket f1a
+[2026-10-13 03:35:07] BITTI rc=0 (73.7 dk)
+[2026-10-13 03:35:07] F1A-2 rholoss: g2 m 1.808 a 0.530 · g3 m 2.476 a 0.506 · g4 m 1.191 a 0.540 ⇒ ÖLDÜ
+[2026-10-13 03:35:07] BASLADI merdiven.py --arch gpt --sizes g1 --variant taban+ep4 --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-13 03:35:18] BITTI rc=0 (0.2 dk)
+[2026-10-13 03:35:18] DUMAN taban+ep4: GEÇTİ
+[2026-10-13 03:35:18] BASLADI merdiven.py --arch gpt --sizes g3,g4 --variant taban+ep4 --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket t2
+[2026-10-13 04:00:20] BITTI rc=0 (25.0 dk)
+[2026-10-13 04:00:21] BASLADI merdiven.py --arch gpt --sizes g1 --variant canon+muonw+qknorm+bigram+wsd+ep4 --seed 1 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\duman_k6.jsonl --etiket duman {'MERDIVEN_ADIM_MAX': '30'}
+[2026-10-13 04:00:32] BITTI rc=0 (0.2 dk)
+[2026-10-13 04:00:32] DUMAN canon+muonw+qknorm+bigram+wsd+ep4: GEÇTİ
+[2026-10-13 04:00:32] BASLADI merdiven.py --arch gpt --sizes g3,g4 --variant canon+muonw+qknorm+bigram+wsd+ep4 --seed 1 --lr_mult 1.0 --out C:\Users\np086\Desktop\02_Projeler\AI_Arastirma\Devrim_Hizlanan_Getiri_2026-10-07\d1_frank\merdiven\merdiven_sonuc.jsonl --etiket t2
+[2026-10-13 04:37:29] BITTI rc=0 (36.9 dk)
+[2026-10-13 04:37:29] F1A-2: gptbert a₄ 0.600 ⇒ ÖLDÜ; rholoss a₄ 0.540 ⇒ ÖLDÜ. T2 (4 tur × ¼ veri; kontrol): taban+ep4 g3: m 0.901 (tek tura göre oran 0.901); taban+ep4 g4: m 0.878 (tek tura göre oran 0.878); canon+muonw+qknorm+bigram+wsd+ep4 g3: m 2.275 (tek tura göre oran 0.464); canon+muonw+qknorm+bigram+wsd+ep4 g4: m 1.264 (tek tura göre oran 0.573).
+[2026-10-13 04:37:29] FAZ F1A2 BITTI
+[2026-10-13 04:37:30] FAZ F1K BASLADI
+[2026-10-13 04:37:30] F1K: bilgi kapasitesi başladı (Ek 7 madde 7, Ek 7b)
+[2026-10-13 04:37:30] BASLADI ..\..\F1K_bilgi_kapasite\bilgi_kapasite.py --hepsi
+[2026-10-13 06:29:21] BITTI rc=0 (111.8 dk)
+[2026-10-13 06:29:21] F1K: | tek | taban | 1.310M | 0.740 | 0.526 | 0.526 | 0.225 | | tek | paket | 2.502M | 1.408 | 1.002 | 0.090 | 0.857 | | cok5 | taban | 1.507M | 0.851 | 0.605 | 0.605 | 0.331 | | cok5 | paket | 2.648M | 1.490 | 1.061 | 0.096 | 0.999 | taban: ifade çeşitliliği (cok5 − tek) QA +10.6 puan ⇒ veri yoğunlaştırma yararlı; paket: ifade çeşitliliği (cok5 − tek) QA +14.2 puan ⇒ veri yoğunlaştırma yararlı; Literatür: ≈2 bit/param ≈1000 görülmede, ≈1 bit/param 100 görülmede (Allen-Zhu & Li 2024, sentetik veri)..
+[2026-10-13 06:29:21] FAZ F1K BITTI
+[2026-10-13 06:29:21] FAZ F2 BASLADI
+[2026-10-13 06:29:22] F2: S1 (25M) büyük merdiven başladı (Ek 7 madde 8)
+[2026-10-13 06:33:26] DERLEME SINAMASI: eager {'rc': 0, 'hiz': 42456.67871877579, 'kayip': 6.4155} · derlemeli {'rc': 0, 'hiz': 59850.06135401975, 'kayip': 6.4164} ⇒ DERLEMELİ (uzun koşular)
+[2026-10-13 06:34:06] hız L8 d512 8_512 mikro 2048: ≈80,553 jeton/sn
+[2026-10-13 06:34:43] hız L8 d512 8_512 mikro 4096: ≈85,886 jeton/sn
+[2026-10-13 06:35:21] hız L8 d512 8_512 mikro 8192: ≈89,473 jeton/sn
+[2026-10-13 06:35:21] BASLADI S1_taban · taban  · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 08:25:46] BITTI S1_taban · val_nat 3.25381 · 1.84 saat
+[2026-10-13 08:25:47] BASLADI S1_paket · canon+muonw+qknorm+bigram+wsd  · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 10:48:47] BITTI S1_paket · val_nat 3.05071 · 2.38 saat
+[2026-10-13 10:48:48] BASLADI S1_h0.008 · canon+muonh+qknorm+bigram+wsd --h_tepe 0.008 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 13:12:03] BITTI S1_h0.008 · val_nat 3.04467 · 2.39 saat
+[2026-10-13 13:12:04] BASLADI S1_b1.0 · canon+muonw+qknorm+bigram+wsd+buyuyen --lr_carp 1.0 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 15:09:00] BITTI S1_b1.0 · val_nat 3.09429 · 1.94 saat
+[2026-10-13 15:09:00] BASLADI S1_h0.004 · canon+muonh+qknorm+bigram+wsd --h_tepe 0.004 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 15:13:10] DURAKLATILDI S1_h0.004 (kayıt alındı; KUYRUK6_DUR silinince sürer)
+[2026-10-13 15:13:10] DURAKLATILDI (KUYRUK6_DUR var; silinince sürer)
+[2026-10-13 15:19:10] DEVAM (KUYRUK6_DUR silindi)
+[2026-10-13 15:19:11] SÜRÜYOR S1_h0.004 · canon+muonh+qknorm+bigram+wsd --h_tepe 0.004 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 15:19:21] HATA rc=1 S1_h0.004 (deneme 1/3; günlük S1_h0.004.log)
+[2026-10-13 15:19:51] SÜRÜYOR S1_h0.004 · canon+muonh+qknorm+bigram+wsd --h_tepe 0.004 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 15:20:01] HATA rc=1 S1_h0.004 (deneme 2/3; günlük S1_h0.004.log)
+[2026-10-13 15:20:32] SÜRÜYOR S1_h0.004 · canon+muonh+qknorm+bigram+wsd --h_tepe 0.004 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 15:20:42] HATA rc=1 S1_h0.004 (deneme 3/3; günlük S1_h0.004.log)
+[2026-10-13 15:20:42] BASLADI S1_h0.016 · canon+muonh+qknorm+bigram+wsd --h_tepe 0.016 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 17:48:08] BITTI S1_h0.016 · val_nat 3.08435 · 2.45 saat
+[2026-10-13 17:48:09] BASLADI S1_taban_lr2.0 · taban --lr_carp 2.0 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 19:41:34] BITTI S1_taban_lr2.0 · val_nat 3.17947 · 1.89 saat
+[2026-10-13 19:41:34] BASLADI S1_taban_lr2.8 · taban --lr_carp 2.8 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 21:36:15] BITTI S1_taban_lr2.8 · val_nat 3.17594 · 1.91 saat
+[2026-10-13 21:36:15] Ek 7c: S1 taban LR denemesi {1.0: 3.25381, 2.0: 3.17947, 2.8: 3.17594} ⇒ ayarlı taban LR ×2.8
+[2026-10-13 21:36:15] BASLADI S1_b0.5 · canon+muonw+qknorm+bigram+wsd+buyuyen --lr_carp 0.5 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-13 23:32:31] BITTI S1_b0.5 · val_nat 3.16424 · 1.93 saat
+[2026-10-13 23:32:32] BASLADI S1_b2.0 · canon+muonw+qknorm+bigram+wsd+buyuyen --lr_carp 2.0 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-14 01:30:32] BITTI S1_b2.0 · val_nat 3.05908 · 1.96 saat
+[2026-10-14 01:30:33] BASLADI S1_w_p2 · canon+muonh+qknorm+bigram+wsd+buyuyen --h_tepe 0.008 --lr_carp 2.8 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-14 03:28:09] BITTI S1_w_p2 · val_nat 3.04597 · 1.96 saat
+[2026-10-14 03:28:09] BASLADI S1_paket_t2 · canon+muonw+qknorm+bigram+wsd --tohum 2 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-14 05:52:55] BITTI S1_paket_t2 · val_nat 3.04918 · 2.41 saat
+[2026-10-14 05:52:55] BASLADI S1_w_p2_t2 · canon+muonh+qknorm+bigram+wsd+buyuyen --h_tepe 0.008 --lr_carp 2.8 --tohum 2 · L8 d512 · 503M jeton · mikro 8192
+[2026-10-14 07:47:56] BITTI S1_w_p2_t2 · val_nat 3.0489 · 1.91 saat
+[2026-10-14 07:47:56] F2 (S1 25M): paket m 1.995 (Haiku'ya +6.00%); ayarlı tabana (LR ×2.8) göre 1.538 (Haiku'ya +3.74%), c_S1 1.297 · en iyi η 0.008, büyütme LR 2.0 · K2'yi geçen ['S1_w_p2', 'S1_b2.0'].
+[2026-10-14 07:47:56] FAZ F2 BITTI
+[2026-10-14 07:47:57] FAZ F3 BASLADI
+[2026-10-14 07:47:57] F3: S2 (49M) büyük merdiven başladı (Ek 7 madde 8)
+[2026-10-14 07:48:53] hız L10 d640 10_640 mikro 2048: ≈44,890 jeton/sn
+[2026-10-14 07:49:44] hız L10 d640 10_640 mikro 4096: ≈49,116 jeton/sn
+[2026-10-14 07:50:36] hız L10 d640 10_640 mikro 8192: ≈51,102 jeton/sn
+[2026-10-14 07:50:36] BASLADI S2_taban · taban  · L10 d640 · 983M jeton · mikro 8192
+[2026-10-14 14:03:23] BITTI S2_taban · val_nat 3.00854 · 6.21 saat
+[2026-10-14 14:03:24] BASLADI S2_paket · canon+muonw+qknorm+bigram+wsd  · L10 d640 · 983M jeton · mikro 8192
+[2026-10-14 21:20:51] BITTI S2_paket · val_nat 2.85005 · 7.28 saat
+[2026-10-14 21:20:52] BASLADI S2_taban_lr2.8 · taban --lr_carp 2.8 · L10 d640 · 983M jeton · mikro 8192
+[2026-10-15 03:36:19] BITTI S2_taban_lr2.8 · val_nat 2.96598 · 6.25 saat
+[2026-10-15 03:36:20] BASLADI S2_w_p2 · canon+muonh+qknorm+bigram+wsd+buyuyen --h_tepe 0.008 --lr_carp 2.8 · L10 d640 · 983M jeton · mikro 8192
+[2026-10-15 09:18:07] BITTI S2_w_p2 · val_nat 2.84909 · 5.69 saat
+[2026-10-15 09:18:07] BASLADI S2_b2.0 · canon+muonw+qknorm+bigram+wsd+buyuyen --lr_carp 2.0 · L10 d640 · 983M jeton · mikro 8192
+[2026-10-15 14:59:39] BITTI S2_b2.0 · val_nat 2.86899 · 5.69 saat
+[2026-10-15 14:59:39] F3 (S2 49M): paket m 2.429 (Haiku'ya +7.71%); - S2_w_p2: r(S1) 1.306 → r(S2) 1.299 ⇒ büyüme yok; - S2_b2.0: r(S1) 1.217 → r(S2) 1.159 ⇒ büyüme yok. Ek 7c: ayarlı tabana göre paket m 1.922 (Haiku'ya +5.68%), c_S2 1.263.
+[2026-10-15 14:59:39] FAZ F3 BITTI
+[2026-10-15 14:59:40] FAZ F4 BASLADI
+[2026-10-15 14:59:40] F4: S3 (85M) taban + kanıt koşusu başladı (KANIT_PLAN, Ek 7 madde 8)
+[2026-10-15 15:01:15] hız L12 d768 12_768 mikro 2048: ≈28,775 jeton/sn
+[2026-10-15 15:02:25] hız L12 d768 12_768 mikro 4096: ≈31,096 jeton/sn
+[2026-10-15 15:03:34] hız L12 d768 12_768 mikro 8192: ≈31,516 jeton/sn
+[2026-10-15 15:03:34] BASLADI S3_taban · taban  · L12 d768 · 1699M jeton · mikro 4096
+[2026-10-16 06:55:38] DURAKLATILDI S3_taban (kayıt alındı; KUYRUK6_DUR silinince sürer)
+[2026-10-16 06:55:38] DURAKLATILDI (KUYRUK6_DUR var; silinince sürer)
+[2026-10-16 06:57:07] FAZ F4 HATA rc=1073807364 (hazir\F4.ok kaldırıldı; düzeltilince yeniden konur)
+[2026-10-16 06:57:07] BEKLIYOR: hazır faz yok (kalan ['F4', 'F5']; hazir\<FAZ>.ok bekleniyor)
+[2026-10-16 16:07:22] KUYRUK6 BASLADI pid 4048
+[2026-10-16 16:07:22] FAZ F4 BASLADI
+[2026-10-16 16:07:22] F4: S3 (85M) taban + kanıt koşusu başladı (KANIT_PLAN, Ek 7 madde 8)
+[2026-10-16 16:07:22] SÜRÜYOR S3_taban · taban  · L12 d768 · 1699M jeton · mikro 4096
+[2026-10-16 16:52:48] BITTI S3_taban · val_nat 2.82924 · 0.75 saat
+[2026-10-16 16:52:48] F4 kanıt kolu: canon+muonh+qknorm+bigram+wsd+buyuyen (eğitim kolu canon+muonh+qknorm+bigram+wsd+buyuyen, L12 d768, ek ['--h_tepe', 0.008, '--lr_carp', 2.8])
+[2026-10-16 17:02:16] F4 öğrenme hızı denetimi ×1.0: val_nat 4.62936
+[2026-10-16 17:11:14] F4 öğrenme hızı denetimi ×0.5: val_nat 4.76397
+[2026-10-16 17:11:19] F4 ÖN KAYIT yazıldı: KANIT_ON_KAYIT.md sha256 bc5d969a4f11f6cb364c185569e901a75fa312eba25ebb386ce6a09aee1e60fc · öngörü 0.915 ± 0.175 bpb
+[2026-10-16 17:11:19] BASLADI S3_kanit · canon+muonh+qknorm+bigram+wsd+buyuyen --h_tepe 0.008 --lr_carp 2.8 · L12 d768 · 1699M jeton · mikro 4096
+[2026-10-16 19:16:45] DURAKLATILDI S3_kanit (kayıt alındı; KUYRUK6_DUR silinince sürer)
+[2026-10-16 19:16:45] DURAKLATILDI (KUYRUK6_DUR var; silinince sürer)
+[2026-10-16 21:28:07] KUYRUK6 BASLADI pid 26456
+[2026-10-16 21:28:07] FAZ F4 BASLADI
+[2026-10-16 21:28:08] F4: S3 (85M) taban + kanıt koşusu başladı (KANIT_PLAN, Ek 7 madde 8)
+[2026-10-16 21:28:08] F4 kanıt kolu: canon+muonh+qknorm+bigram+wsd+buyuyen (eğitim kolu canon+muonh+qknorm+bigram+wsd+buyuyen, L12 d768, ek ['--h_tepe', 0.008, '--lr_carp', 2.8])
+[2026-10-16 21:28:08] SÜRÜYOR S3_kanit · canon+muonh+qknorm+bigram+wsd+buyuyen --h_tepe 0.008 --lr_carp 2.8 · L12 d768 · 1699M jeton · mikro 4096
+[2026-10-17 09:31:42] BITTI S3_kanit · val_nat 2.70521 · 12.05 saat
+[2026-10-17 09:41:04] F4 (S3 85M kanıt): bpb 0.9709 ⇒ BANT İÇİ (yasa tuttu); aktarım m 2.765 ⇒ KORUNDU (≥2,0) (Haiku'ya +8.83%).
+[2026-10-17 09:41:05] BASLADI S3_taban_lr2.8 · taban --lr_carp 2.8 · L12 d768 · 1699M jeton · mikro 4096
+[2026-10-18 01:35:56] BITTI S3_taban_lr2.8 · val_nat 2.79187 · 15.91 saat
+[2026-10-18 01:35:56] F4 (S3 85M kanıt): bpb 0.9709 ⇒ BANT İÇİ (yasa tuttu); aktarım m 2.765 ⇒ KORUNDU (≥2,0) (Haiku'ya +8.83%). Ek 7c: ayarlı S3 tabanına göre m 2.212 ⇒ KORUNDU (≥2,0) (Haiku'ya +6.89%).
+[2026-10-18 01:35:57] FAZ F4 BITTI
+[2026-10-18 01:35:58] FAZ F5 BASLADI
+[2026-10-18 01:35:58] F5: otomatik toplu rapor
+[2026-10-18 01:35:58] F5: otomatik toplu rapor yazıldı (Devrim kökünde RAPOR_DEVRIM_OTOMATIK.md); anlatı raporu ve İngilizce özet Claude'un işi.
+[2026-10-18 01:35:58] FAZ F5 BITTI
+[2026-10-18 01:35:59] KUYRUK6 BITTI

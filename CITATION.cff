@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "How much compute do bundled training tricks save for small language models? A preregistered scale ladder on one laptop GPU (0.4M-85M parameters)"
+version: "draft v0"
+authors:
+  - family-names: "Yünlü"
+    given-names: "Mert"
+repository-code: "https://github.com/latentcore/devrim-scale-ladder"
+license: Apache-2.0
